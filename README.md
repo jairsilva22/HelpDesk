@@ -1,8 +1,9 @@
 🆘 Help Desk - Sistema de Gestión de Tickets / Ticket Management System
+---
 Sistema web para la gestión de tickets internos por departamento, desarrollado con .NET 9, SQL Server y Razor Pages. Integra comunicación en tiempo real mediante SignalR y notificaciones automáticas por correo electrónico y WhatsApp, optimizando el flujo de atención a incidencias.
 
 Web system for internal departmental ticket management, developed with .NET 9, SQL Server, and Razor Pages. Features real-time communication with SignalR and automatic notifications via email and WhatsApp, optimizing incident tracking and resolution.
-
+---
 🚀 Tecnologías Utilizadas / Technologies Used
 ⚙️ ASP.NET Core (.NET 9) con Razor Pages
 
@@ -21,7 +22,7 @@ Web system for internal departmental ticket management, developed with .NET 9, S
 🔐 ASP.NET Identity para autenticación / authentication
 
 🌐 HTML5, CSS3, JavaScript
-
+---
 📋 Funcionalidades / Features
 📝 Registro y seguimiento de tickets / Ticket creation and tracking
 
@@ -38,7 +39,7 @@ Web system for internal departmental ticket management, developed with .NET 9, S
 📁 Historial de tickets por estado / Ticket history by status
 
 📱 Interfaz responsive y moderna / Responsive and modern UI
-
+---
 🔐 Login
 Acceso seguro con roles diferenciados para administración, soporte y usuarios comunes.
 
